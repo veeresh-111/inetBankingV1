@@ -1,0 +1,290 @@
+2022-02-02 20:03:18,512 [main] INFO ebanking - Entered the URL of app
+2022-02-02 20:03:18,596 [main] INFO ebanking - Entered the username
+2022-02-02 20:03:19,230 [main] INFO ebanking - Entered the password
+2022-02-10 22:23:28,088 [main] INFO ebanking - Entered the URL of app
+2022-02-10 22:23:28,200 [main] INFO ebanking - Entered the username
+2022-02-10 22:23:28,726 [main] INFO ebanking - Entered the password
+2022-02-10 22:23:30,796 [main] INFO ebanking - Login test passed
+2022-02-10 22:28:59,613 [main] INFO ebanking - Entered the URL of app
+2022-02-10 22:28:59,735 [main] INFO ebanking - Entered the username
+2022-02-10 22:29:00,160 [main] INFO ebanking - Entered the password
+2022-02-10 22:42:17,555 [main] INFO ebanking - Entered the URL of app
+2022-02-10 22:42:17,621 [main] INFO ebanking - Entered the username
+2022-02-10 22:42:17,937 [main] INFO ebanking - Entered the password
+2022-02-11 23:04:13,859 [main] INFO ebanking - user name provided
+2022-02-11 23:04:14,278 [main] INFO ebanking - password provided
+2022-02-11 23:04:20,292 [main] INFO ebanking - Login passed
+2022-02-11 23:04:27,392 [main] INFO ebanking - user name provided
+2022-02-11 23:04:27,439 [main] INFO ebanking - password provided
+2022-02-11 23:04:32,474 [main] INFO ebanking - user name provided
+2022-02-11 23:04:32,523 [main] INFO ebanking - password provided
+2022-02-11 23:04:38,466 [main] INFO ebanking - user name provided
+2022-02-11 23:04:39,228 [main] INFO ebanking - password provided
+2022-02-11 23:04:45,077 [main] INFO ebanking - Login passed
+2022-02-11 23:04:51,600 [main] INFO ebanking - user name provided
+2022-02-11 23:04:51,714 [main] INFO ebanking - password provided
+2022-02-12 19:26:20,075 [main] INFO ebanking - user name provided
+2022-02-12 19:26:20,506 [main] INFO ebanking - password provided
+2022-02-12 19:26:26,646 [main] INFO ebanking - providing customer details....
+2022-02-12 19:27:39,729 [main] INFO ebanking - user name provided
+2022-02-12 19:27:39,843 [main] INFO ebanking - password provided
+2022-02-12 19:27:45,329 [main] INFO ebanking - providing customer details....
+2022-02-12 20:00:06,762 [main] INFO ebanking - user name provided
+2022-02-12 20:00:07,871 [main] INFO ebanking - password provided
+2022-02-12 20:00:15,442 [main] INFO ebanking - providing customer details....
+2022-02-16 23:49:21,243 [main] INFO ebanking - user name provided
+2022-02-16 23:49:22,393 [main] INFO ebanking - password provided
+2022-02-16 23:49:27,200 [main] INFO ebanking - providing customer details....
+2022-02-16 23:49:48,382 [main] INFO ebanking - validation started....
+2022-02-16 23:49:48,418 [main] INFO ebanking - test case passed....
+2022-02-17 19:39:37,685 [main] INFO ebanking - user name provided
+2022-02-17 19:39:37,931 [main] INFO ebanking - password provided
+2022-02-17 19:39:43,330 [main] INFO ebanking - Login passed
+2022-02-17 19:39:49,927 [main] INFO ebanking - user name provided
+2022-02-17 19:39:50,086 [main] INFO ebanking - password provided
+2022-02-17 19:39:55,408 [main] INFO ebanking - user name provided
+2022-02-17 19:39:55,580 [main] INFO ebanking - password provided
+2022-02-17 19:40:01,904 [main] INFO ebanking - user name provided
+2022-02-17 19:40:02,069 [main] INFO ebanking - password provided
+2022-02-17 19:40:06,857 [main] INFO ebanking - Login passed
+2022-02-17 19:40:13,219 [main] INFO ebanking - user name provided
+2022-02-17 19:40:13,485 [main] INFO ebanking - password provided
+2022-02-19 13:51:32,600 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the URL of app
+2022-02-19 13:51:32,713 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the username
+2022-02-19 13:51:33,477 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the password
+2022-02-19 13:51:33,517 [TestNG-test=BankingApp Test-2] INFO ebanking - user name provided
+2022-02-19 13:51:33,743 [TestNG-test=BankingApp Test-2] INFO ebanking - password provided
+2022-02-19 13:53:43,527 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the URL of app
+2022-02-19 13:53:43,536 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the username
+2022-02-19 13:53:43,772 [TestNG-test=BankingApp Test-2] INFO ebanking - user name provided
+2022-02-19 13:53:43,886 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the password
+2022-02-19 13:53:44,239 [TestNG-test=BankingApp Test-2] INFO ebanking - password provided
+2022-02-19 13:56:06,889 [TestNG-test=BankingApp Test-1] INFO ebanking - user name provided
+2022-02-19 13:56:07,036 [TestNG-test=BankingApp Test-1] INFO ebanking - password provided
+2022-02-19 13:56:12,182 [TestNG-test=BankingApp Test-1] INFO ebanking - providing customer details....
+2022-02-19 13:56:27,706 [TestNG-test=BankingApp Test-1] INFO ebanking - validation started....
+2022-02-19 18:24:20,568 [TestNG-test=BankingApp Test-1] INFO ebanking - user name provided
+2022-02-19 18:24:20,878 [TestNG-test=BankingApp Test-1] INFO ebanking - password provided
+2022-02-19 18:24:25,915 [TestNG-test=BankingApp Test-1] INFO ebanking - Login passed
+2022-02-19 18:24:34,013 [TestNG-test=BankingApp Test-1] INFO ebanking - user name provided
+2022-02-19 18:24:34,169 [TestNG-test=BankingApp Test-1] INFO ebanking - password provided
+2022-02-19 18:24:41,016 [TestNG-test=BankingApp Test-1] INFO ebanking - user name provided
+2022-02-19 18:24:41,165 [TestNG-test=BankingApp Test-1] INFO ebanking - password provided
+2022-02-19 18:24:48,261 [TestNG-test=BankingApp Test-1] INFO ebanking - user name provided
+2022-02-19 18:24:48,399 [TestNG-test=BankingApp Test-1] INFO ebanking - password provided
+2022-02-19 18:24:52,844 [TestNG-test=BankingApp Test-1] INFO ebanking - Login passed
+2022-02-19 18:24:58,715 [TestNG-test=BankingApp Test-1] INFO ebanking - user name provided
+2022-02-19 18:24:59,317 [TestNG-test=BankingApp Test-1] INFO ebanking - password provided
+2022-02-19 20:05:40,303 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the URL of app
+2022-02-19 20:05:40,428 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the username
+2022-02-19 20:05:40,707 [TestNG-test=BankingApp Test-2] INFO ebanking - user name provided
+2022-02-19 20:05:40,868 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the password
+2022-02-19 20:05:41,076 [TestNG-test=BankingApp Test-2] INFO ebanking - password provided
+2022-02-19 20:07:46,631 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the URL of app
+2022-02-19 20:07:46,649 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the username
+2022-02-19 20:07:46,963 [TestNG-test=BankingApp Test-2] INFO ebanking - user name provided
+2022-02-19 20:07:48,564 [TestNG-test=BankingApp Test-1] INFO ebanking - Entered the password
+2022-02-19 20:07:48,717 [TestNG-test=BankingApp Test-2] INFO ebanking - password provided
+2022-02-19 20:12:38,014 [main] INFO ebanking - Entered the URL of app
+2022-02-19 20:12:38,384 [main] INFO ebanking - Entered the username
+2022-02-19 20:12:39,670 [main] INFO ebanking - Entered the password
+2022-02-19 20:12:41,382 [main] INFO ebanking - Login test passed
+2022-02-19 20:12:49,593 [main] INFO ebanking - user name provided
+2022-02-19 20:12:49,944 [main] INFO ebanking - password provided
+2022-02-19 20:12:54,544 [main] INFO ebanking - providing customer details....
+2022-02-19 20:13:11,378 [main] INFO ebanking - validation started....
+2022-02-19 20:13:11,417 [main] INFO ebanking - test case passed....
+2022-02-19 21:10:33,945 [main] INFO ebanking - Entered the URL of app
+2022-02-19 21:10:34,097 [main] INFO ebanking - Entered the username
+2022-02-19 21:10:34,999 [main] INFO ebanking - Entered the password
+2022-02-19 21:10:37,739 [main] INFO ebanking - Login test passed
+2022-02-19 21:10:46,257 [main] INFO ebanking - user name provided
+2022-02-19 21:10:46,426 [main] INFO ebanking - password provided
+2022-02-19 21:10:51,464 [main] INFO ebanking - providing customer details....
+2022-02-19 21:11:07,418 [main] INFO ebanking - validation started....
+2022-02-19 21:11:07,458 [main] INFO ebanking - test case passed....
+2022-02-19 21:48:25,958 [main] INFO ebanking - Entered the URL of app
+2022-02-19 21:48:26,130 [main] INFO ebanking - Entered the username
+2022-02-19 21:48:26,535 [main] INFO ebanking - Entered the password
+2022-02-19 21:48:28,838 [main] INFO ebanking - Login test passed
+2022-02-19 21:48:40,746 [main] INFO ebanking - user name provided
+2022-02-19 21:48:40,896 [main] INFO ebanking - password provided
+2022-02-19 21:48:46,307 [main] INFO ebanking - providing customer details....
+2022-02-19 21:49:01,097 [main] INFO ebanking - validation started....
+2022-02-19 21:50:21,346 [main] INFO ebanking - Entered the URL of app
+2022-02-19 21:50:21,384 [main] INFO ebanking - Entered the username
+2022-02-19 21:50:21,527 [main] INFO ebanking - Entered the password
+2022-02-19 21:50:24,978 [main] INFO ebanking - Login test passed
+2022-02-19 21:50:36,136 [main] INFO ebanking - user name provided
+2022-02-19 21:50:36,278 [main] INFO ebanking - password provided
+2022-02-19 21:50:45,363 [main] INFO ebanking - providing customer details....
+2022-02-19 21:51:10,047 [main] INFO ebanking - validation started....
+2022-02-19 21:51:10,116 [main] INFO ebanking - test case passed....
+2022-02-20 23:24:13,784 [main] INFO ebanking - Entered the URL of app
+2022-02-20 23:24:14,097 [main] INFO ebanking - Entered the username
+2022-02-20 23:24:14,342 [main] INFO ebanking - Entered the password
+2022-02-20 23:24:23,576 [main] INFO ebanking - user name provided
+2022-02-20 23:24:23,855 [main] INFO ebanking - password provided
+2022-02-20 23:26:06,492 [main] INFO ebanking - Entered the URL of app
+2022-02-20 23:26:06,541 [main] INFO ebanking - Entered the username
+2022-02-20 23:26:06,742 [main] INFO ebanking - Entered the password
+2022-02-20 23:26:14,559 [main] INFO ebanking - user name provided
+2022-02-20 23:26:14,728 [main] INFO ebanking - password provided
+2022-02-20 23:32:04,628 [main] INFO ebanking - Entered the URL of app
+2022-02-20 23:32:04,674 [main] INFO ebanking - Entered the username
+2022-02-20 23:32:04,860 [main] INFO ebanking - Entered the password
+2022-02-20 23:32:06,830 [main] INFO ebanking - Login test passed
+2022-02-20 23:32:14,721 [main] INFO ebanking - user name provided
+2022-02-20 23:32:14,909 [main] INFO ebanking - password provided
+2022-02-20 23:32:19,566 [main] INFO ebanking - providing customer details....
+2022-02-20 23:32:38,459 [main] INFO ebanking - validation started....
+2022-02-20 23:32:38,494 [main] INFO ebanking - test case passed....
+2022-02-20 23:43:14,433 [main] INFO ebanking - Entered the URL of app
+2022-02-20 23:43:14,531 [main] INFO ebanking - Entered the username
+2022-02-20 23:43:14,754 [main] INFO ebanking - Entered the password
+2022-02-20 23:43:16,891 [main] INFO ebanking - Login test passed
+2022-02-20 23:43:24,343 [main] INFO ebanking - user name provided
+2022-02-20 23:43:24,588 [main] INFO ebanking - password provided
+2022-02-20 23:43:30,038 [main] INFO ebanking - providing customer details....
+2022-02-20 23:43:44,564 [main] INFO ebanking - validation started....
+2022-02-21 00:16:54,392 [main] INFO ebanking - Entered the URL of app
+2022-02-21 00:16:54,498 [main] INFO ebanking - Entered the username
+2022-02-21 00:16:54,784 [main] INFO ebanking - Entered the password
+2022-02-21 00:16:56,489 [main] INFO ebanking - Login test passed
+2022-02-21 00:17:04,229 [main] INFO ebanking - user name provided
+2022-02-21 00:17:04,428 [main] INFO ebanking - password provided
+2022-02-21 00:17:09,395 [main] INFO ebanking - providing customer details....
+2022-02-21 00:17:25,591 [main] INFO ebanking - validation started....
+2022-02-21 00:17:25,626 [main] INFO ebanking - test case passed....
+2022-02-21 00:29:53,968 [main] INFO ebanking - Entered the URL of app
+2022-02-21 00:29:54,008 [main] INFO ebanking - Entered the username
+2022-02-21 00:29:54,295 [main] INFO ebanking - Entered the password
+2022-02-21 00:29:57,039 [main] INFO ebanking - Login test passed
+2022-02-21 00:30:04,597 [main] INFO ebanking - user name provided
+2022-02-21 00:30:04,785 [main] INFO ebanking - password provided
+2022-02-21 00:30:09,610 [main] INFO ebanking - providing customer details....
+2022-02-21 00:30:24,303 [main] INFO ebanking - validation started....
+2022-02-21 00:30:24,371 [main] INFO ebanking - test case passed....
+2022-02-21 00:34:13,109 [main] INFO ebanking - Entered the URL of app
+2022-02-21 00:34:13,154 [main] INFO ebanking - Entered the username
+2022-02-21 00:34:13,366 [main] INFO ebanking - Entered the password
+2022-02-21 00:34:14,933 [main] INFO ebanking - Login test passed
+2022-02-21 00:34:23,055 [main] INFO ebanking - user name provided
+2022-02-21 00:34:23,264 [main] INFO ebanking - password provided
+2022-02-21 00:34:28,914 [main] INFO ebanking - providing customer details....
+2022-02-21 00:34:44,646 [main] INFO ebanking - validation started....
+2022-02-21 00:34:44,697 [main] INFO ebanking - test case passed....
+2022-02-21 00:38:48,918 [main] INFO ebanking - Entered the URL of app
+2022-02-21 00:38:48,989 [main] INFO ebanking - Entered the username
+2022-02-21 00:38:49,476 [main] INFO ebanking - Entered the password
+2022-02-21 00:38:51,342 [main] INFO ebanking - Login test passed
+2022-02-21 00:39:00,848 [main] INFO ebanking - user name provided
+2022-02-21 00:39:01,173 [main] INFO ebanking - password provided
+2022-02-21 00:39:07,518 [main] INFO ebanking - providing customer details....
+2022-02-21 00:39:23,277 [main] INFO ebanking - validation started....
+2022-02-21 00:39:23,318 [main] INFO ebanking - test case passed....
+2022-02-24 18:47:52,036 [main] INFO ebanking - Entered the URL of app
+2022-02-24 18:47:52,164 [main] INFO ebanking - Entered the username
+2022-02-24 18:47:53,636 [main] INFO ebanking - Entered the password
+2022-02-24 18:47:57,362 [main] INFO ebanking - Login test passed
+2022-02-24 18:48:07,239 [main] INFO ebanking - user name provided
+2022-02-24 18:48:07,715 [main] INFO ebanking - password provided
+2022-02-24 18:48:13,341 [main] INFO ebanking - providing customer details....
+2022-02-24 18:48:31,157 [main] INFO ebanking - validation started....
+2022-02-24 18:48:31,213 [main] INFO ebanking - test case passed....
+2022-02-24 19:44:34,529 [main] INFO ebanking - Entered the URL of app
+2022-02-24 19:44:34,761 [main] INFO ebanking - Entered the username
+2022-02-24 19:44:35,510 [main] INFO ebanking - Entered the password
+2022-02-24 19:44:39,865 [main] INFO ebanking - Login test passed
+2022-02-24 19:45:01,637 [main] INFO ebanking - user name provided
+2022-02-24 19:45:01,957 [main] INFO ebanking - password provided
+2022-02-24 19:45:08,636 [main] INFO ebanking - providing customer details....
+2022-02-24 19:45:29,792 [main] INFO ebanking - validation started....
+2022-02-24 19:45:29,952 [main] INFO ebanking - test case passed....
+2022-02-24 19:51:00,916 [main] INFO ebanking - Entered the URL of app
+2022-02-24 19:51:00,978 [main] INFO ebanking - Entered the username
+2022-02-24 19:51:01,225 [main] INFO ebanking - Entered the password
+2022-02-24 19:51:04,942 [main] INFO ebanking - Login test passed
+2022-02-24 19:51:14,996 [main] INFO ebanking - user name provided
+2022-02-24 19:51:15,203 [main] INFO ebanking - password provided
+2022-02-24 19:51:21,880 [main] INFO ebanking - providing customer details....
+2022-02-24 19:52:50,055 [main] INFO ebanking - Entered the URL of app
+2022-02-24 19:52:50,183 [main] INFO ebanking - Entered the username
+2022-02-24 19:52:50,727 [main] INFO ebanking - Entered the password
+2022-02-24 19:52:54,493 [main] INFO ebanking - Login test passed
+2022-02-24 19:53:21,555 [main] INFO ebanking - user name provided
+2022-02-24 19:53:22,341 [main] INFO ebanking - password provided
+2022-02-24 19:53:29,247 [main] INFO ebanking - providing customer details....
+2022-02-24 19:53:49,327 [main] INFO ebanking - validation started....
+2022-02-24 19:53:49,428 [main] INFO ebanking - test case passed....
+2022-02-24 22:44:15,796 [main] INFO ebanking - Entered the URL of app
+2022-02-24 22:44:15,973 [main] INFO ebanking - Entered the username
+2022-02-24 22:44:18,162 [main] INFO ebanking - Entered the password
+2022-02-24 22:44:22,398 [main] INFO ebanking - Login test passed
+2022-02-24 22:44:34,712 [main] INFO ebanking - user name provided
+2022-02-24 22:44:34,957 [main] INFO ebanking - password provided
+2022-02-24 22:44:40,534 [main] INFO ebanking - providing customer details....
+2022-02-24 22:45:00,078 [main] INFO ebanking - validation started....
+2022-02-24 22:45:00,185 [main] INFO ebanking - test case passed....
+2022-02-24 23:07:57,377 [main] INFO ebanking - Entered the URL of app
+2022-02-24 23:07:57,437 [main] INFO ebanking - Entered the username
+2022-02-24 23:07:57,827 [main] INFO ebanking - Entered the password
+2022-02-24 23:08:00,038 [main] INFO ebanking - Login test passed
+2022-02-24 23:08:09,784 [main] INFO ebanking - user name provided
+2022-02-24 23:08:10,146 [main] INFO ebanking - password provided
+2022-02-24 23:08:15,920 [main] INFO ebanking - providing customer details....
+2022-02-24 23:09:05,687 [main] INFO ebanking - Entered the URL of app
+2022-02-24 23:09:05,726 [main] INFO ebanking - Entered the username
+2022-02-24 23:09:05,915 [main] INFO ebanking - Entered the password
+2022-02-24 23:09:09,072 [main] INFO ebanking - Login test passed
+2022-02-24 23:09:17,467 [main] INFO ebanking - user name provided
+2022-02-24 23:09:17,647 [main] INFO ebanking - password provided
+2022-02-24 23:09:43,283 [main] INFO ebanking - Entered the URL of app
+2022-02-24 23:09:43,351 [main] INFO ebanking - Entered the username
+2022-02-24 23:09:43,694 [main] INFO ebanking - Entered the password
+2022-02-24 23:09:46,805 [main] INFO ebanking - Login test passed
+2022-02-24 23:09:54,713 [main] INFO ebanking - user name provided
+2022-02-24 23:09:54,853 [main] INFO ebanking - password provided
+2022-02-24 23:10:00,949 [main] INFO ebanking - providing customer details....
+2022-02-24 23:11:40,114 [main] INFO ebanking - Entered the URL of app
+2022-02-24 23:11:40,162 [main] INFO ebanking - Entered the username
+2022-02-24 23:11:40,320 [main] INFO ebanking - Entered the password
+2022-02-24 23:11:43,134 [main] INFO ebanking - Login test passed
+2022-02-24 23:11:50,966 [main] INFO ebanking - user name provided
+2022-02-24 23:11:51,231 [main] INFO ebanking - password provided
+2022-02-24 23:11:56,542 [main] INFO ebanking - providing customer details....
+2022-02-24 23:12:25,434 [main] INFO ebanking - Entered the URL of app
+2022-02-24 23:12:25,480 [main] INFO ebanking - Entered the username
+2022-02-24 23:12:25,698 [main] INFO ebanking - Entered the password
+2022-02-24 23:12:28,766 [main] INFO ebanking - Login test passed
+2022-02-24 23:12:34,867 [main] INFO ebanking - user name provided
+2022-02-24 23:12:35,022 [main] INFO ebanking - password provided
+2022-02-24 23:12:40,879 [main] INFO ebanking - providing customer details....
+2022-02-24 23:14:51,561 [main] INFO ebanking - Entered the URL of app
+2022-02-24 23:14:51,596 [main] INFO ebanking - Entered the username
+2022-02-24 23:14:51,977 [main] INFO ebanking - Entered the password
+2022-02-24 23:14:54,358 [main] INFO ebanking - Login test passed
+2022-02-24 23:15:03,026 [main] INFO ebanking - user name provided
+2022-02-24 23:15:03,185 [main] INFO ebanking - password provided
+2022-02-24 23:15:10,190 [main] INFO ebanking - providing customer details....
+2022-02-24 23:29:45,687 [main] INFO ebanking - Entered the URL of app
+2022-02-24 23:29:45,732 [main] INFO ebanking - Entered the username
+2022-02-24 23:29:46,085 [main] INFO ebanking - Entered the password
+2022-02-24 23:29:49,021 [main] INFO ebanking - Login test passed
+2022-02-24 23:29:56,777 [main] INFO ebanking - user name provided
+2022-02-24 23:29:56,987 [main] INFO ebanking - password provided
+2022-02-24 23:30:03,154 [main] INFO ebanking - providing customer details....
+2022-02-24 23:32:06,232 [main] INFO ebanking - Entered the URL of app
+2022-02-24 23:32:06,292 [main] INFO ebanking - Entered the username
+2022-02-24 23:32:06,735 [main] INFO ebanking - Entered the password
+2022-02-24 23:32:09,771 [main] INFO ebanking - Login test passed
+2022-02-24 23:44:59,219 [main] INFO ebanking - Entered the URL of app
+2022-02-24 23:44:59,279 [main] INFO ebanking - Entered the username
+2022-02-24 23:44:59,583 [main] INFO ebanking - Entered the password
+2022-02-24 23:45:02,641 [main] INFO ebanking - Login test passed
+2022-02-24 23:46:02,302 [main] INFO ebanking - Entered the URL of app
+2022-02-24 23:46:02,360 [main] INFO ebanking - Entered the username
+2022-02-24 23:46:02,784 [main] INFO ebanking - Entered the password
+2022-02-24 23:46:05,862 [main] INFO ebanking - Login test passed
+2022-02-25 00:26:10,835 [main] INFO ebanking - user name provided
+2022-02-25 00:26:11,232 [main] INFO ebanking - password provided
